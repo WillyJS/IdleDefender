@@ -1,4 +1,4 @@
-# NeverAway
+# Idle-Defender
 
 ![](/idleDefender.png)
 
